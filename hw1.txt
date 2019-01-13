@@ -1,1 +1,36 @@
-Madelyn Dubuk HW #1
+Madelyn Dubuk
+CSCI 104
+1/11/19
+HW #1
+
+Problem 1:
+A) which of the following are acceptable behaviors in
+solving homewokrs/projects?
+	1. Looking up information relevant to the course online
+	4. Asking the course staff for help
+	8. Copying test cases from my classmates or Piazza when test cases are not graded
+
+B) Which of the following are recommended ways of writing code?
+	emacs
+	Eclipse
+	Sublime
+	Microsoft Visual Studio
+
+C) What is the late submission policy?
+	4. Use the normal submission system provided you have grace-days available
+
+D) After making a late submission by pushing your code to Github you would...
+	1. Use the normal submission system on the course website
+	4. Start the next assignment sooner
+
+Problem 2:
+A) Which of the following git user interfaces are accepted and supported in this course?
+	3. Terminal
+
+B) Provide the appropriate git command to perform the following operations:
+	1. git add ./hw1q2b.cpp
+	2. git log -3
+
+C) If you stages three files to be committed and ran " git commit", git will ask for what you would like to call this commit (also called commit message). 
+
+Problem 4:

@@ -1,6 +1,6 @@
 #include <iostream>
 
-using namespace std
+using namespace std;
   
 int func2(int* in, int n);
 
@@ -36,7 +36,7 @@ int main()
   func1(mat, 3, 4);
   for(int i=0; i < 3; i++){
     for(int j= 0; j < 4; j++){
-      cout << setw(2) << mat[i][j]  << " ";
+      cout << mat[i][j]  << " ";
     }
     cout << endl;
   }
